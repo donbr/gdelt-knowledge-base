@@ -1,6 +1,7 @@
 # GDELT Knowledge Graph RAG Assistant
 
-> **Certification Challenge Project** — AI Engineering Bootcamp Cohort 8  
+> **Author & System Architect:** [Don Branson](https://github.com/donbr)  
+> **Course & Challenge:** AI Engineering Bootcamp (Cohort 8) • Reference Implementation & Evaluation Harness  
 > An intelligent question-answering system for GDELT (Global Database of Events, Language, and Tone) documentation, powered by **Retrieval-Augmented Generation**.
 
 ---
@@ -38,8 +39,8 @@ Located in the **`architecture/`** directory — produced by the *Claude Agent S
 
 ### Installation
 ```bash
-git clone https://github.com/aie8-cert-challenge/gdelt-knowledge-base.git
-cd cert-challenge
+git clone https://github.com/donbr/gdelt-knowledge-base.git
+cd gdelt-knowledge-base
 uv venv --python 3.11
 source .venv/bin/activate        # Linux/WSL/Mac
 # .venv\Scripts\activate         # Windows
